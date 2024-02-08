@@ -21,7 +21,7 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "extension": {
         "namespace": "hello",
         "url": "https://dan4p.github.io/",
